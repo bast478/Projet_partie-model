@@ -1,5 +1,6 @@
 # Projet_partie-model
 Maquette du premier projet solo dwwm ACS
+Consignes : Projet_partie_dwwm_base.pdf
 
 ### Itération # A.1 : Analyse
 - Le sujet, Gouffre de Poudrey, a un logo. Le site a des couleurs sombres, comme les autres sites de grottes en général. Pour le site, les liens principaux, ou dans des "boutons" (visuel), les textes principaux, ceux mis en importance visuellement, et les titres sont en majuscules. On arrive sur la page d'accueil avec des couleurs sombres (barre de liens, arrière plan du Gouffre), ensuite on a du #f9f9f9 en arrière-plan, et plus tard du blanc, mais dans toute la page, les couleurs sombres dominent. On retrouve parfois une couleur jaune ocre clair ou jaune brun. Le texte est en blanc, transparent, ou noir. On retrouve aussi du rouge foncé que l'on peut retrouver plus sur d'autres pages.
