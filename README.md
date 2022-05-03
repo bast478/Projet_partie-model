@@ -1,5 +1,5 @@
 # Projet_partie-model
-Maquette du premier projet solo dwwm ACS
+Maquette du premier projet solo dwwm ACS<br>
 Consignes : Projet_partie_dwwm_base.pdf
 
 ### Itération # A.1 : Analyse
